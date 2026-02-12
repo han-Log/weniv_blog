@@ -101,9 +101,6 @@ Gemini의 출제: QuizService가 Gemini API에 요청하여 문제, 보기, 정�
 
 ### 피그마로 디자인 하기
 
-![로그인](img/Login_Figma.png)
-![회원가입](img/Login2_Figma.png)
-![메인화면](img/Main_Figma.png)
-![퀴즈화면](img/Quiz_Figma.png)
+![Figma](img/Figma.png)
 
 디자이너 전공은 아니지만 열심히 디자인 해봤습니다. 어떤가요? 꽤 그럴싸한데..?
