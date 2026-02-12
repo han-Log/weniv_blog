@@ -45,8 +45,6 @@
 
 #### Screens : 로그인페이지, 회원가입페이지, 비밀번호 재설정페이지
 
-![로그인](img/Login_Figma.png)
-![회원가입](img/Login2_Figma.png)
 
 .
 .
@@ -63,7 +61,6 @@
 
 #### Screens : 메인화면
 
-![메인화면](img/Main_Figma.png)
 
 .
 .
@@ -80,7 +77,6 @@ Gemini의 출제: QuizService가 Gemini API에 요청하여 문제, 보기, 정�
 
 #### Screens : 퀴즈화면
 
-![퀴즈화면](img/Quiz_Figma.png)
 
 .
 .
@@ -98,3 +94,16 @@ Gemini의 출제: QuizService가 Gemini API에 요청하여 문제, 보기, 정�
 홈화면으로 간 뒤 ui를 Update 합니다.
 
 #### Screens : 퀴즈화면 -> 홈화면
+
+.
+.
+.
+
+### 피그마로 디자인 하기
+
+![로그인](img/Login_Figma.png)
+![회원가입](img/Login2_Figma.png)
+![메인화면](img/Main_Figma.png)
+![퀴즈화면](img/Quiz_Figma.png)
+
+디자이너 전공은 아니지만 열심히 디자인 해봤습니다. 어떤가요? 꽤 그럴싸한데..?
