@@ -10,7 +10,8 @@
 .
 
 > *구조*
-
+전체 구조:
+```dart
 lib/
 ├── main.dart                 # 앱의 시작점, Firebase 초기화 및 라우팅 설정
 ├── models/                   # 데이터 구조 정의 (User, Quiz 등)
@@ -27,7 +28,7 @@ lib/
 ├── widgets/                  # 공통적으로 사용되는 재사용 위젯
 │   ├── score_radar_chart.dart# 영역별 역량 분석 차트
 │   └── custom_snackbar.dart  # 한글 에러 메시지 알림창
-
+```
 
 
 > *회원가입 버그*
